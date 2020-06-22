@@ -9,7 +9,8 @@ Dr. Matthai ist ein pflichtbewusster Kommissar, der am Tag seines Abschieds aus 
 * pflichtbewusst
 * gruendlich 
 
-> Das sind Zitate:
+## Das sind Zitate
+
 > Matthai untersucht die Orte, an denen die beiden anderen Maedchen vor Jahren ermordet wurden, und erkennt mit Hilfe einer Landkarte, 
 > dass die Verbrechen alle unweit einer Landstrasse, die in den Kanton Graubuenden fuehrt, begangen wurden. Matthai vermutet, 
 > dass der Moerder ein Auto mit Buendner Kennzeichen faehrt und des oefteren diese Landstraße benutzt. 
