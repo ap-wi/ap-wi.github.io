@@ -3,12 +3,14 @@
 Dr. Matthai ist ein pflichtbewusster Kommissar, der am Tag seines Abschieds aus dem Polizeidienst mit dem Tod eines jungen Maedchen konfrontiert wird. Der Mutter des toten Maedchen muss er versprechen, dass er den Taeter finden und bestrafen wird. Der Fall laesst ihn ueber sein Dienstende nicht mehr los. 
 
 ## Charakter Eigenschaften
+
 * vertrauenswuerdig
 * haelt sein Wort
 * pflichtbewusst
 * gruendlich 
 
 ## Das sind Zitate:
+
 >Matthai untersucht die Orte, an denen die beiden anderen Maedchen vor Jahren ermordet wurden, und erkennt mit Hilfe einer Landkarte, 
 >dass die Verbrechen alle unweit einer Landstrasse, die in den Kanton Graubuenden fuehrt, begangen wurden. Matthai vermutet, 
 >dass der Moerder ein Auto mit Buendner Kennzeichen faehrt und des oefteren diese Landstraße benutzt. 
