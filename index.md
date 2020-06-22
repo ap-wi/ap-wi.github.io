@@ -17,5 +17,5 @@ Dr. Matthai ist ein pflichtbewusster Kommissar, der am Tag seines Abschieds aus 
 > Er mietet sich eine Tankstelle an der Landstrasse von Zuerich nach Chur und stellt eine junge Frau als Haushaelterin ein, 
 > deren Tochter in Gritli Mosers Alter ist und dieser aeußerlich aehnelt. Sein Plan ist, die kleine Annemarie als Koeder zu benutzen, 
 > um den wahren Moerder in eine Falle zu locken. Er notiert sich die Nummern passender Autos und erkundigt sich dann unter Vorwaenden danach, 
-> ob die Halter Kinder haben.  
+> ob die Halter Kinder haben.    
   
